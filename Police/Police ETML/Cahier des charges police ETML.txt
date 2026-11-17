@@ -1,0 +1,6 @@
+Cahier des charges police ETML
+
+Se renseigner vers le client afin d'obtenir des informations sur les caractères nécessaire chiffre, caractères spéciaux.
+Découvrir l'objectif de la police et sous-quelle forme elle sera utilisée.
+définir les user story de la police
+continuer sur les chiffres et réglés les problème de caractère paraissant gras.
